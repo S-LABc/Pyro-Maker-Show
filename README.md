@@ -10,5 +10,5 @@
 
 # Ссылки
 
-* Видео 1 https://youtu.be/uNIu-ZZGiiI
-* Видео 2 https://youtu.be/2OObFdx5boU
+* [Видео 1](https://youtu.be/uNIu-ZZGiiI)
+* [Видео 2](https://youtu.be/2OObFdx5boU)
